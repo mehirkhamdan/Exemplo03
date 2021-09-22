@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Exemplo03</string>
+    <string name="nome">Nome:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="masc">Masculino:</string>
+    <string name="fem">Feminino:</string>
+    <string name="email">Email:</string>
+    <string name="tel">Telefone:</string>
+    <string name="pref">Preferência:</string>
+    <string name="gastronomia">Gastronomia</string>
+    <string name="esporte">Esporte</string>
+    <string name="cinema">Cinema</string>
+    <string name="musica">Musica</string>
+    <string name="notif">Ativar notificações:</string>
+    <string name="limpar">Limpar</string>
+    <string name="exibir">Exibir</string>
+    <string name="on">Ligado</string>
+    <string name="off">Desligado</string>
+
+</resources>
